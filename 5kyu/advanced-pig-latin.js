@@ -1,4 +1,4 @@
-// ? <5>kyu: Advanced Pig Latin
+// ? 5kyu: Advanced Pig Latin
 // https://www.codewars.com/kata/533c46b140aafec05b000d31
 
 // Instructions
